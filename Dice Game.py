@@ -25,6 +25,6 @@ while True:
 
 #Line-13: Here we import "random" module, which is necessary for generating random numbers.
 #Line-15: This creates an infinite loop, allowing user to roll the dice multiple times until they quit.
-#Line-16: Here we use "lower()" function because we can give input in lowercase or uppercase.
+#Line-16: Here we use "lower()" function because we may give input in lowercase or uppercase.
 #It will be converted to lowercase itself without getting error.
 #Line 20: Prints the result of the dice roll in tuple format
