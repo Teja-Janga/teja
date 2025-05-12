@@ -12,7 +12,7 @@
 #In modules "random", "randint" is to generate random numbers between a range of two distinct numbers.
 # But with "choice" we can select a random thing from multiple choices
 
-# Note : To get those emojis
+# Note : To get these emojis
 # In MacOS : Press Control (Ctrl) + Command (⌘) + Space bar
 # In Windows : Press Windows Key(🪟) + Semicolon Key(;)
 
